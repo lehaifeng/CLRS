@@ -28,14 +28,14 @@ The proposed CLRS data set consists of 15,000 remote sensing images divided into
 <div align=center><img src="https://github.com/jh101024/Python/blob/master/CLRS-samples.png"/></div>
 
 # Experiment results
-# NI scenario
-<div align=center><img src="https://github.com/jh101024/Python/blob/master/experiments/NI.png" width="400px" hight="400px"/></div>
+NI scenario:<br>
+<img src="pics/NI.png" width="400px" hight="400px" />
 
-# NC scenario
-<div align=center><img src="https://github.com/jh101024/Python/blob/master/experiments/NC.png" width="400px" hight="400px"/></div>
+NC scenario:<br>
+<img src="pics/NC.png" width="400px" hight="400px" />
 
-# NIC scenario
-<div align=center><img src="https://github.com/jh101024/Python/blob/master/experiments/NIC.png" width="400px" hight="400px"/></div>
+NIC scenario:<br>
+<img src="pics/NIC.png" width="400px" hight="400px" />
 
 # CLRS Dataset download
 [CLRS Dataset can be downloaded here in BaiduYun](https://pan.baidu.com/s/1NkkaJxPtewW5fQMk8yCAQw)
