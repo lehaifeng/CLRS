@@ -37,6 +37,13 @@ The proposed CLRS data set consists of 15,000 remote sensing images divided into
 3) NIC scenario:<br>
 <img src="pics/NIC.png" width="600px" hight="400px" />
 
+# Code requirements
+* tensorflow
+* scipy
+* numpy
+* matplotlib
+* scikit-image
+
 # CLRS Dataset download
 [CLRS Dataset can be downloaded here in BaiduYun](https://pan.baidu.com/s/1NkkaJxPtewW5fQMk8yCAQw)
 
