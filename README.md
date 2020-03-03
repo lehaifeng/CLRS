@@ -1,8 +1,10 @@
 # CLRS: Continual Learning Benchmark for Remote Sensing Image Scene Classification
 
-This is a new datasae design for a new task named Continual/Lifelong learning for remote sensing image scene classification. The existing remote sensing image scene classification datasets use static benchmarks and lack the standard to divide the datasets into a number of sequential learning training batches, which largely limits the development of Continual/Lifelong learning in remote sensing image scene classification.
+This is a database designed for the new task named Continual/Lifelong learning for remote sensing image scene classification. The existing remote sensing image scene classification datasets use static benchmarks and lack the standard to divide the datasets into several sequential learning training batches, which largely limits the development of Continual/Lifelong learning in remote sensing image scene classification.
 
-Splitting the training set into a number of batches is essential to train and test Continual/Lifelong learning approaches which are currently receiving much attention. Unfortunately, most of the existing datasets are not well suited to this purpose because they lack a fundamental ingredient: the presence of multiple (unconstrained) views of the same objects taken in different sessions. 
+Splitting the training set into several batches is essential to train and test Continual/Lifelong learning approaches which are currently receiving much attention. Unfortunately, most of the existing datasets are not well suited to this purpose because they lack a fundamental ingredient: the presence of multiple (unconstrained) views of the same objects taken in different sessions. 
+
+In this dataset, we consider three Continual/Lifelong learning scenarios:
 
 In this dataset, we consider three Continual/Lifelong learning scenarios:
 
