@@ -6,11 +6,14 @@ Splitting the training set into a number of batches is essential to train and te
 
 In this dataset, we consider three Continual/Lifelong learning scenarios:
 
-New Instances (NI): new training patterns of the same classes becomes available in subsequent batches with new poses and environment conditions. A good model is expected to incrementally consolidate its knowledge about the known classes without compromising what it learned before.
+```
+* New Instances (NI): new training patterns of the same classes becomes available in subsequent batches with new poses and environment conditions. A good model is expected to incrementally consolidate its knowledge about the known classes without compromising what it learned before.
 
-New Classes (NC): new training patterns belonging to different classes becomes available in subsequent batches. In this case the model should be able to deal with the new classes without losing accuracy on the previous ones.
+* New Classes (NC): new training patterns belonging to different classes becomes available in subsequent batches. In this case the model should be able to deal with the new classes without losing accuracy on the previous ones.
 
-New Instances and Classes (NIC): new training patterns belonging both to known and new classes becomes available in subsequent training batches. A good model is expected to consolidate its knowledge about the known classes and to learn the new ones.
+* New Instances and Classes (NIC): new training patterns belonging both to known and new classes becomes available in subsequent training batches. A good model is expected to consolidate its knowledge about the known classes and to learn the new ones.
+```
+
 
 # CLRS Dataset
 The proposed CLRS data set consists of 15,000 remote sensing images divided into 25 scene classes, namely, airport, bare-land, beach, bridge, commercial, desert, farmland, forest, golf-course, highway, industrial, meadow, mountain, overpass, park, parking, playground, port, railway, railway-station, residential, river, runway, stadium, and storage-tank. Each class has 600 images, and the image size is 256x256. The resolution of the images ranges from 0.26 m to 8.85 m. <br> 
