@@ -6,7 +6,6 @@ Splitting the training set into several batches is essential to train and test C
 
 In this dataset, we consider three Continual/Lifelong learning scenarios:
 
-In this dataset, we consider three Continual/Lifelong learning scenarios:
 
 * New Instances (NI): new training patterns of the same classes becomes available in subsequent batches with new poses and environment conditions. A good model is expected to incrementally consolidate its knowledge about the known classes without compromising what it learned before.
 
@@ -19,7 +18,8 @@ The proposed CLRS data set consists of 15,000 remote sensing images divided into
 <div align=center><img src="https://github.com/jh101024/Python/blob/master/CLRS-samples.png"/></div>
 
 # CLRS Dataset download
-[CLRS Dataset can be downloaded here in BaiduYun](https://pan.baidu.com/s/1ZwDs-yS-M6PXxL0QkMlc3Q)
+[CLRS Dataset can be downloaded here in BaiduYun](https://pan.baidu.com/s/16Ul4T_6BqgwOFXyAalG2Rw)
+提取码：n0tj
 
 # Experiment results
 1) NI scenario:<br>
