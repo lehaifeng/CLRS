@@ -19,7 +19,7 @@ The proposed CLRS data set consists of 15,000 remote sensing images divided into
 
 # CLRS Dataset download
 [CLRS Dataset can be downloaded here in BaiduYun](https://pan.baidu.com/s/16Ul4T_6BqgwOFXyAalG2Rw)
-提取码：n0tj
+  提取码：n0tj
 
 # Experiment results
 1) NI scenario:<br>
